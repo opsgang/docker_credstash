@@ -1,3 +1,4 @@
+[1]: https://github.com/fugue/credstash "credstash on github"
 # docker\_credstash
 
 _... for systems such as RancherOS or CoreOS -_
